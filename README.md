@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is [Your Name], and I'm a Mathematics student.
+
+📚 I'm passionate about combining Mathematics and Programming, exploring ways to apply mathematical concepts to solve computational problems and create educational projects.
+
+💻 I have experience with Python and I'm currently learning PHP. I'm also very interested in computational thinking in education, looking for strategies to make learning more engaging and meaningful through technology.
+
+🚀 I enjoy working with logic, algorithms, and mathematical visualization. I'm always eager to learn new things, build projects, and share knowledge.
+
 <!--
 **TalitaRW/TalitaRW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
