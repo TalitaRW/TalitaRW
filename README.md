@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is [Your Name], and I'm a Mathematics student.
+My name is Talita, and I'm a Mathematics student.
 
 📚 I'm passionate about combining Mathematics and Programming, exploring ways to apply mathematical concepts to solve computational problems and create educational projects.
 
